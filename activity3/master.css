@@ -1,0 +1,29 @@
+body {
+    
+    font-family: "Open Sans", sans-serif;
+    color: white
+}
+   
+    H1 {
+    color: blue;
+    background-color: lightskyblue;
+    }
+    img {
+
+    height: 100px;
+    text-align: left;
+    }
+    figcaption span {
+    font-size: •85em;
+    }
+    
+    p#product-description {
+    margin: 20px 0 20px 0;
+    text-align: justify;
+    }
+   
+    div.review {
+        padding: 10px;
+    background-color: lightblue;
+    margin: 20px 0 20px 0;
+    }
